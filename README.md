@@ -1,7 +1,7 @@
 # scrollStop
 A simple function for detecting when someone stops scrolling.
 
-[Download scrollStop](https://github.com/cferdinandi/scrollStop/archive/master.zip)
+[Download scrollStop](https://github.com/cferdinandi/scrollStop/archive/master.zip) / [View the Demo](https://cferdinandi.github.io/scrollStop/)
 
 
 ## Getting Started
