@@ -6,8 +6,6 @@ A simple function for detecting when someone stops scrolling.
 
 ## Getting Started
 
-Compiled and production-ready code can be found in the `dist` directory. The `src` directory contains development code.
-
 ### 1. Include scrollStop on your site.
 
 Include the code in your script, or load it as an external file.
