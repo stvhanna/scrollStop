@@ -3,6 +3,12 @@ A simple function for detecting when someone stops scrolling.
 
 [Download scrollStop](https://github.com/cferdinandi/scrollStop/archive/master.zip) / [View the Demo](https://cferdinandi.github.io/scrollStop/)
 
+<hr>
+
+### Want to learn vanilla JavaScript? Check out ["The Vanilla JS Guidebook"](https://gomakethings.com/vanilla-js-guidebook/) and level-up as a web developer. 🚀
+
+<hr>
+
 
 ## Getting Started
 
