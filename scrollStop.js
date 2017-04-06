@@ -1,3 +1,4 @@
+/*! scrollStop.js | (c) 2017 Chris Ferdinandi | MIT License | http://github.com/cferdinandi/scrollStop */
 /**
  * Run functions after scrolling has stopped
  * @param  {Function} callback The function to run after scrolling
